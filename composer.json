@@ -1,6 +1,6 @@
 {
-    "name": "pacifica/userinterface-core",
-    "description": "Drupal core profile for Pacifica user interfaces.",
+    "name": "pacifica/userinterface-search",
+    "description": "Drupal search profile for Pacifica search interfaces.",
     "type": "drupal-profile",
     "license": "LGPL-3.0-or-later",
     "authors": [
