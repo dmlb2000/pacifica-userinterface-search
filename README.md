@@ -1,4 +1,4 @@
-# Pacifica Userinterface Core
+# Pacifica Userinterface Search
 
-Core user interface repository for building generic interfaces on Pacifica services.
-This is a Drupal install profile to install a basic Pacifica user interface.
+Search user interface repository for search interfaces on Pacifica services.
+This is a Drupal install profile to install a Pacifica search user interface.
